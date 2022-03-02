@@ -49,10 +49,11 @@ password: string
 ## Стэк технологий
 
 - Backend:
-  Express
-  TypeScript
-  MongoDB
+
+  - Express
+  - TypeScript
+  - MongoDB
 
 - Frontend:
-  React
-  TypeScript
+  - React
+  - TypeScript
