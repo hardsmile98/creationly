@@ -1,13 +1,17 @@
 ## Проектирование БД
 
-### table users,subs,authors
+### Таблицы users,subs,authors
 
 ![database](https://i.ibb.co/zXwRb52/1806.png)
 
-### table options for authors
+### Таблица options for authors
 
 ![database](https://i.ibb.co/j4kjmL6/1807.png)
 
-### table posts
+### Таблица posts
 
 ![database](https://i.ibb.co/XCxxN4V/1808.png)
+
+## Выбор архитектуры
+
+![acrhitecture](https://i.ibb.co/pfHV0L0/1809.png)
